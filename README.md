@@ -4,15 +4,6 @@ A responsive dice game built with **React**, styled using **TailwindCSS**, and e
 
 ---
 
-## 📸 Demo
-
-Add a section for your live demo here or a GIF/image of the project.  
-For example:  
-![Tenzies Game Demo](https://via.placeholder.com/800x400?text=Project+Demo)  
-_Link to Live Project_: [Click here to play the game](#)
-
----
-
 ## ✨ Features
 
 - 🎲 **Fun Gameplay**:
@@ -49,35 +40,6 @@ The following tools and technologies were used to develop this project:
 
 ---
 
-## 🚀 How to Run Locally
-
-To get the project up and running on your local device, follow these steps:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/<your-username>/tenzies-game.git
-   cd tenzies-game
-   ```
-
-2. **Install Dependencies**:
-   Make sure you have Node.js and npm installed. Install project dependencies by running:
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the Development Server**:
-
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in Browser**:
-   Navigate to `http://localhost:5173/` in your web browser to view the project.
-
----
-
 ## 📋 Usage
 
 ### Gameplay Instructions:
@@ -87,13 +49,6 @@ To get the project up and running on your local device, follow these steps:
 3. Continue clicking "Roll" until all the dice match the same value.
 4. Celebrate the win with a confetti explosion! 🎉
 5. Click "New Game" to restart.
-
-### Key Features in Action:
-
-- Winning condition: All dice are frozen (`isHeld = true`) and have the same value.
-- Upon winning, the button changes to "New Game", and the confetti fires on the screen.
-
----
 
 ---
 
